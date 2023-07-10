@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vruti Shah</h1>
+<h1 align="center">Hi there 👋, Vruti Shah here! 👩🏻‍💻</h1>
 <h3 align="center">An ambitious front-end developer from Kenya 🇰🇪</h3>
 
 - 🔭 I’m currently working on **creating Web3 DApps 🌐🔒**
