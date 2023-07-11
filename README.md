@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **vruti.shah@hotmail.com**
 
-- ⚡ Fun fact: **An apologetic fry enthusiast! 🍟**
+- ⚡ Fun fact: **An unapologetic fry enthusiast! 🍟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
